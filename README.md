@@ -1,2 +1,1 @@
 # HerculesPOTranslations
-# HerculesPOTranslations
