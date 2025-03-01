@@ -15,138 +15,148 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-#,fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: c1fa5502eb08143a0e6e7862577fa57480919c0f\n"
 "Report-Msgid-Bugs-To: dev@herc.ws\n"
 "POT-Creation-Date: 2025-03-01 16:03:23+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2025-03-01 22:41+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
-
-#: npc/airports/lighthalzen.txt
 # mes("[Airport Staff]");
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "[Airport Staff]"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("Welcome to the\r"
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
-msgid "Welcome to the\rLighthalzen Airport,\rwhere we offer nonstop\rflights to Einbroch, Juno and Hugel."
+msgid ""
+"Welcome to the\rLighthalzen Airport,\rwhere we offer nonstop\rflights to "
+"Einbroch, Juno and Hugel."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Board the Airship."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Cancel."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("The boarding fee is\r"
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
-msgid "The boarding fee is\r1,200 zeny, but you can\rwaive the fee if you redeem\ra Free Ticket for Airship."
+msgid ""
+"The boarding fee is\r1,200 zeny, but you can\rwaive the fee if you redeem\ra "
+"Free Ticket for Airship."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Yes"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "No"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("[Airship Staff]");
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "[Airship Staff]"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("I'm sorry, but you don't\r"
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("Thank you and\r"
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Thank you and\rplease come again."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("Have a good day~");
+#: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Have a good day~"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("[Arrival Staff]");
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "[Arrival Staff]"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("Welcome to Lighthalzen Airport.");
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Welcome to Lighthalzen Airport."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("Please let me guide you to the\r"
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
-msgid "Please let me guide you to the\rmain terminal if you are arriving from your flight. Otherwise, please\rboard the departing Airship to reach your intended destination."
+msgid ""
+"Please let me guide you to the\rmain terminal if you are arriving from your "
+"flight. Otherwise, please\rboard the departing Airship to reach your "
+"intended destination."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Exit to main terminal."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Cancel."
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("Once you're in the main terminal, you will need to pay the fee again\r"
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
-msgid "Once you're in the main terminal, you will need to pay the fee again\rto board an Airship. You should\ronly exit if Lighthalzen is your intended destination. Shall we\rproceed to the main terminal?"
+msgid ""
+"Once you're in the main terminal, you will need to pay the fee again\rto "
+"board an Airship. You should\ronly exit if Lighthalzen is your intended "
+"destination. Shall we\rproceed to the main terminal?"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Yes"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "No"
 msgstr ""
 
-#: npc/airports/lighthalzen.txt
 # mes("Alright, thank you\r"
+#: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
-msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
+msgid ""
+"Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant "
+"flight~"
 msgstr ""

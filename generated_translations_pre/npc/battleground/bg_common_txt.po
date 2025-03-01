@@ -15,889 +15,953 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-#,fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: c1fa5502eb08143a0e6e7862577fa57480919c0f\n"
 "Report-Msgid-Bugs-To: dev@herc.ws\n"
 "POT-Creation-Date: 2025-03-01 16:03:23+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2025-03-01 22:43+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
-
-#: npc/battleground/bg_common.txt
 # mes("[Prince Croix]");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "[Prince Croix]"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Wise adventurer, why don't you lend us your power for victory?");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "Wise adventurer, why don't you lend us your power for victory?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("What's the reason for the Battle?", "Tell me about General Guillaume")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "What's the reason for the Battle?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("What's the reason for the Battle?", "Tell me about General Guillaume")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "Tell me about General Guillaume"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Maroll's great king, Marcel Marollo VII, is very sick lately.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "Maroll's great king, Marcel Marollo VII, is very sick lately."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("His Majesty has declared that he will be leaving the future of Maroll to me or the 3rd prince, General Guillaume.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "His Majesty has declared that he will be leaving the future of Maroll to me or the 3rd prince, General Guillaume."
+msgid ""
+"His Majesty has declared that he will be leaving the future of Maroll to me "
+"or the 3rd prince, General Guillaume."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("General Guillaume may have an advantage in this battle as he is the great general of Maroll, but that doesn't automatically mean he'll win.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "General Guillaume may have an advantage in this battle as he is the great general of Maroll, but that doesn't automatically mean he'll win."
+msgid ""
+"General Guillaume may have an advantage in this battle as he is the great "
+"general of Maroll, but that doesn't automatically mean he'll win."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I want to win this battle so that I can bring prosperity to the people of Maroll. They've suffered enough from war...");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "I want to win this battle so that I can bring prosperity to the people of Maroll. They've suffered enough from war..."
+msgid ""
+"I want to win this battle so that I can bring prosperity to the people of "
+"Maroll. They've suffered enough from war..."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "Yes, I want to join you."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "End Conversation"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Thank you so much. I feel like I can win with the help of adventurers like you.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "Thank you so much. I feel like I can win with the help of adventurers like you."
+msgid ""
+"Thank you so much. I feel like I can win with the help of adventurers like "
+"you."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Now, please go downstairs and join your comrades in sharpening their skills to fight the enemy!");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "Now, please go downstairs and join your comrades in sharpening their skills to fight the enemy!"
+msgid ""
+"Now, please go downstairs and join your comrades in sharpening their skills "
+"to fight the enemy!"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("For Maroll!");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "For Maroll!"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The 3rd Prince Guillaume is the great general of Maroll.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "The 3rd Prince Guillaume is the great general of Maroll."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("It's a waste of time to explain to you how great a leader or warlord he is, since he commands the great military power of Maroll.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "It's a waste of time to explain to you how great a leader or warlord he is, since he commands the great military power of Maroll."
+msgid ""
+"It's a waste of time to explain to you how great a leader or warlord he is, "
+"since he commands the great military power of Maroll."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Unfortunately, there's something he and his followers are unaware of:");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "Unfortunately, there's something he and his followers are unaware of:"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Do the people of Maroll really want them to spend so much money on military power?");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "Do the people of Maroll really want them to spend so much money on military power?"
+msgid ""
+"Do the people of Maroll really want them to spend so much money on military "
+"power?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("We have suffered enough from wars.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "We have suffered enough from wars."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I believe weapons aren't the best way to bring prosperity to a nation.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
 msgid "I believe weapons aren't the best way to bring prosperity to a nation."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I do not wish to shed blood, but I have no choice but to fight for the possibility of peace and for the sake of my people.");
+#: npc/battleground/bg_common.txt
 msgctxt "Prince Croix"
-msgid "I do not wish to shed blood, but I have no choice but to fight for the possibility of peace and for the sake of my people."
+msgid ""
+"I do not wish to shed blood, but I have no choice but to fight for the "
+"possibility of peace and for the sake of my people."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("[General Guillaume]");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "[General Guillaume]"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Hot-blooded adventurer, we need your ability to win this battle.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Hot-blooded adventurer, we need your ability to win this battle."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("What's the reason for the Battle?", "Tell me about Prince Croix")) {
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "What's the reason for the Battle?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("What's the reason for the Battle?", "Tell me about Prince Croix")) {
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Tell me about Prince Croix"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Our great king, Marcel Marollo VII, is very sick lately.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Our great king, Marcel Marollo VII, is very sick lately."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("His Majesty has declared that he has chosen either me or Prince Croix as the next king amongst his 9 sons.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "His Majesty has declared that he has chosen either me or Prince Croix as the next king amongst his 9 sons."
+msgid ""
+"His Majesty has declared that he has chosen either me or Prince Croix as the "
+"next king amongst his 9 sons."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Two kings can't share a nation! Only the one victorious from His Majesty's appointed battle will be enthroned.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "Two kings can't share a nation! Only the one victorious from His Majesty's appointed battle will be enthroned."
+msgid ""
+"Two kings can't share a nation! Only the one victorious from His Majesty's "
+"appointed battle will be enthroned."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("This is, however, not just a battle between us. This battle will determine the future of this country.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "This is, however, not just a battle between us. This battle will determine the future of this country."
+msgid ""
+"This is, however, not just a battle between us. This battle will determine "
+"the future of this country."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I pledge on my honor to prove that I'm the one who can protect this Maroll from outside threats.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "I pledge on my honor to prove that I'm the one who can protect this Maroll from outside threats."
+msgid ""
+"I pledge on my honor to prove that I'm the one who can protect this Maroll "
+"from outside threats."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Yes, I want to join you."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "End Conversation"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Welcome to my army, comrade.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Welcome to my army, comrade."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Your eyes tell me that you're a soldier that I can trust.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Your eyes tell me that you're a soldier that I can trust."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Now, go upstairs and apply for battle with your comrades.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Now, go upstairs and apply for battle with your comrades."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I'm sure they'll welcome you whole-heartedly!");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "I'm sure they'll welcome you whole-heartedly!"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I'll be the one who will capture the flag!");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "I'll be the one who will capture the flag!"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The 5th Prince Croix is currently titled as the Prime Minister of Maroll.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "The 5th Prince Croix is currently titled as the Prime Minister of Maroll."
+msgid ""
+"The 5th Prince Croix is currently titled as the Prime Minister of Maroll."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("He thinks all national matters of a nation can be discussed and determined on a desk,\r"
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "He thinks all national matters of a nation can be discussed and determined on a desk,\rand believes in peaceful co-existence with other countries."
+msgid ""
+"He thinks all national matters of a nation can be discussed and determined "
+"on a desk,\rand believes in peaceful co-existence with other countries."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("He's too ignorant to admit that so-called peace is built on countless lives that are sacrificed in "
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "He's too ignorant to admit that so-called peace is built on countless lives that are sacrificed in wars while normal citizens and upper classes can live, oblivious to the horrors that allow them to live that way."
+msgid ""
+"He's too ignorant to admit that so-called peace is built on countless lives "
+"that are sacrificed in wars while normal citizens and upper classes can "
+"live, oblivious to the horrors that allow them to live that way."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("He's too naive to understand the reality....");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "He's too naive to understand the reality...."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I can't leave Maroll to someone like him who lives in a dream!");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "I can't leave Maroll to someone like him who lives in a dream!"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("His unrealistic beliefs will drown this country in poverty and make the people weak. If he becomes the king, "
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "His unrealistic beliefs will drown this country in poverty and make the people weak. If he becomes the king, Maroll will never rest from the onslaughts of other countries."
+msgid ""
+"His unrealistic beliefs will drown this country in poverty and make the "
+"people weak. If he becomes the king, Maroll will never rest from the "
+"onslaughts of other countries."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I want to teach him what makes this small country so powerful and prosperous. It's military power!");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
-msgid "I want to teach him what makes this small country so powerful and prosperous. It's military power!"
+msgid ""
+"I want to teach him what makes this small country so powerful and "
+"prosperous. It's military power!"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "I want to join your army!"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Now, go upstairs and apply for battle from your comrades.");
+#: npc/battleground/bg_common.txt
 msgctxt "General Guillaume"
 msgid "Now, go upstairs and apply for battle from your comrades."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("[Teleporter]");
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "[Teleporter]"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Do you wish to leave the battlefield? Use my services to return to town.");
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
-msgid "Do you wish to leave the battlefield? Use my services to return to town."
+msgid ""
+"Do you wish to leave the battlefield? Use my services to return to town."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Leave", "Don't Leave")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Leave"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Leave", "Don't Leave")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Don't Leave"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # setarray .@mapname$[0], _("Prontera"), "prontera";
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Prontera"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # setarray .@mapname$[0], _("Morroc"), "moc_ruins";
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Morroc"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # setarray .@mapname$[0], _("Al De Baran"), "aldebaran";
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Al De Baran"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # setarray .@mapname$[0], _("Geffen"), "geffen";
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Geffen"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # setarray .@mapname$[0], _("Payon"), "payon";
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Payon"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # setarray .@mapname$[0], _("Lighthalzen"), "lighthalzen";
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Lighthalzen"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # setarray .@mapname$[0], _("Rachel"), "rachel";
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "Rachel"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mesf("You will be sent back to %s.", .@mapname$[0]);
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Teleporter#Battlefield"
 msgid "You will be sent back to %s."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I'll be here whenever you're in need of my services.");
+#: npc/battleground/bg_common.txt
 msgctxt "Teleporter#Battlefield"
 msgid "I'll be here whenever you're in need of my services."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("[Maroll Battle Recruiter]");
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
 msgid "[Maroll Battle Recruiter]"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Good day, adventurer.");
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
 msgid "Good day, adventurer."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I'm a knight from a far country called Maroll Kingdom.");
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
 msgid "I'm a knight from a far country called Maroll Kingdom."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The two princes of the kingdom are now battling for the throne of Maroll, and are in need of experienced soldiers like you.");
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
-msgid "The two princes of the kingdom are now battling for the throne of Maroll, and are in need of experienced soldiers like you."
+msgid ""
+"The two princes of the kingdom are now battling for the throne of Maroll, "
+"and are in need of experienced soldiers like you."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("How would you like to lend your power to one of the princes in the Maroll Kingdom?");
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
-msgid "How would you like to lend your power to one of the princes in the Maroll Kingdom?"
+msgid ""
+"How would you like to lend your power to one of the princes in the Maroll "
+"Kingdom?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Join", "Don't Join")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
 msgid "Join"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Join", "Don't Join")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
 msgid "Don't Join"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("May the war god bless you.");
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
 msgid "May the war god bless you."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I'll always be stationed here for more soldiers. Feel free to come back whenever you're interested.");
+#: npc/battleground/bg_common.txt
 msgctxt "Maroll Battle Recruiter::BatRecruit"
-msgid "I'll always be stationed here for more soldiers. Feel free to come back whenever you're interested."
+msgid ""
+"I'll always be stationed here for more soldiers. Feel free to come back "
+"whenever you're interested."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # callfunc("repairmain", _("Repairman"));
+#: npc/battleground/bg_common.txt
 msgctxt "Repairman#bg"
 msgid "Repairman"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The command has been cancelled.");
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "The command has been cancelled."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("May I help you?");
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "May I help you?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "Close Battlefield"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "Open Battlefield"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "Reset a01"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "Reset b01"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "Reset a02"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "Reset b02"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Complete");
+#: npc/battleground/bg_common.txt
 msgctxt "Switch#batgnd"
 msgid "Complete"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("- Wait a minute !! -");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "- Wait a minute !! -"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("- Currently you're carrying -");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "- Currently you're carrying -"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("- too many items with you. -");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "- too many items with you. -"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("- Please try again -");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "- Please try again -"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("- after you loose some weight. -");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "- after you loose some weight. -"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("[Erundek]");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "[Erundek]"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Do you have the battlefield badges?");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Do you have the battlefield badges?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("I can exchange Bravery Badges and Valor Badges for reward items.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "I can exchange Bravery Badges and Valor Badges for reward items."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Exchange Badges", "Check the Catalog")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Exchange Badges"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Exchange Badges", "Check the Catalog")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Check the Catalog"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Which type of items would you like to exchange?");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Which type of items would you like to exchange?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("To check more information about the reward items, please use our ^3131FFCatalog^000000.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "To check more information about the reward items, please use our ^3131FFCatalog^000000."
+msgid ""
+"To check more information about the reward items, please use our "
+"^3131FFCatalog^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Weapon"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Armor"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Accessory"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Consumable"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("You chose ^3131FFWeapon^000000.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "You chose ^3131FFWeapon^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following weapons are available for exchange with the battlefield badges.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following weapons are available for exchange with the battlefield badges."
+msgid ""
+"The following weapons are available for exchange with the battlefield badges."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Please note that items for ^3131FFBravery Badges are indicated as (BB)^000000, and ^3131FFValor Badges as (VB)^000000.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "Please note that items for ^3131FFBravery Badges are indicated as (BB)^000000, and ^3131FFValor Badges as (VB)^000000."
+msgid ""
+"Please note that items for ^3131FFBravery Badges are indicated as "
+"(BB)^000000, and ^3131FFValor Badges as (VB)^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Dagger/OneSword/TwoSword/TwoSpear"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Staff/Mace/TwoAxe/Shuriken"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Bow/Katar/Music/Whip"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Book/Knuckle"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Revolver/Rifle/Gatling/Shotgun/Launcher"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following items are available in the ^3131FFDagger, One-Handed Sword, Two-Handed Sword, and Two-Handed Spear^000000 category.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following items are available in the ^3131FFDagger, One-Handed Sword, Two-Handed Sword, and Two-Handed Spear^000000 category."
+msgid ""
+"The following items are available in the ^3131FFDagger, One-Handed Sword, "
+"Two-Handed Sword, and Two-Handed Spear^000000 category."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following items are available in the ^3131FFStaff / Mace / Two-Handed Axe / Huuma Shuriken^000000 category.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following items are available in the ^3131FFStaff / Mace / Two-Handed Axe / Huuma Shuriken^000000 category."
+msgid ""
+"The following items are available in the ^3131FFStaff / Mace / Two-Handed "
+"Axe / Huuma Shuriken^000000 category."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following weapons are available in the ^3131FFBow / Katar / Musical Instrument / Whip^000000 category.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following weapons are available in the ^3131FFBow / Katar / Musical Instrument / Whip^000000 category."
+msgid ""
+"The following weapons are available in the ^3131FFBow / Katar / Musical "
+"Instrument / Whip^000000 category."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following weapons are available in the ^3131FFBook / Knuckle^000000 category.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following weapons are available in the ^3131FFBook / Knuckle^000000 category."
+msgid ""
+"The following weapons are available in the ^3131FFBook / Knuckle^000000 "
+"category."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following weapons are available in the ^3131FFRevolver / Rifle / Gatling Gun / Shotgun / Grenade Launcher^000000 category.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following weapons are available in the ^3131FFRevolver / Rifle / Gatling Gun / Shotgun / Grenade Launcher^000000 category."
+msgid ""
+"The following weapons are available in the ^3131FFRevolver / Rifle / Gatling "
+"Gun / Shotgun / Grenade Launcher^000000 category."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # .@menu$ += getitemname(.@Weapons[.@i]) + ((.@Weapons[.@i+1]==7828) ? _("(BB)") : _("(VB)")) + ":";
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "(BB)"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # .@menu$ += getitemname(.@Weapons[.@i]) + ((.@Weapons[.@i+1]==7828) ? _("(BB)") : _("(VB)")) + ":";
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "(VB)"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mesf("You chose ^3131FF%s%s^000000.", getitemname(.@Weapons[.@i]), .@type$);
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Erundek"
 msgid "You chose ^3131FF%s%s^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mesf("You can exchange for this item with ^FF0000100 %s^000000.", getitemname(.@Weapons[.@i+1]));
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Erundek"
 msgid "You can exchange for this item with ^FF0000100 %s^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Would you like to exchange?");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Would you like to exchange?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Do not exchange", "Exchange")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Do not exchange"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Do not exchange", "Exchange")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Exchange"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mesf("Would you like to spend ^FF0000100 %s^000000 and receive a ^3131FF%s%s^000000?",
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Erundek"
-msgid "Would you like to spend ^FF0000100 %s^000000 and receive a ^3131FF%s%s^000000?"
+msgid ""
+"Would you like to spend ^FF0000100 %s^000000 and receive a "
+"^3131FF%s%s^000000?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Remember, Battleground Reward Items are ^FF0000Character Bound^000000. Are you sure you want this item?");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "Remember, Battleground Reward Items are ^FF0000Character Bound^000000. Are you sure you want this item?"
+msgid ""
+"Remember, Battleground Reward Items are ^FF0000Character Bound^000000. Are "
+"you sure you want this item?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Yes", "No")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Yes"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Yes", "No")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "No"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Thank you for exchanging.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Thank you for exchanging."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # else mes("I'm sorry, but you don't have enough badges to exchange.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "I'm sorry, but you don't have enough badges to exchange."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Do you need more time to check the items?");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Do you need more time to check the items?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("You chose ^3131FFArmor^000000.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "You chose ^3131FFArmor^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following armors are available for exchange with the battlefield badges.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following armors are available for exchange with the battlefield badges."
+msgid ""
+"The following armors are available for exchange with the battlefield badges."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # switch(select("Garments / Shoes", "Armor")) {
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Garments / Shoes"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("You chose ^3131FFAccessory^000000.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "You chose ^3131FFAccessory^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("You can exchange the Medal of Honors with your Badges according to the job classes, as follows:");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "You can exchange the Medal of Honors with your Badges according to the job classes, as follows:"
+msgid ""
+"You can exchange the Medal of Honors with your Badges according to the job "
+"classes, as follows:"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("You chose ^3131FFConsumable^000000.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "You chose ^3131FFConsumable^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("The following consumable items are available for exchange with the battlefield badges:");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
-msgid "The following consumable items are available for exchange with the battlefield badges:"
+msgid ""
+"The following consumable items are available for exchange with the "
+"battlefield badges:"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("We have many items, so please take a look and purchase deliberately.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "We have many items, so please take a look and purchase deliberately."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mesf("You chose ^3131FF%s^000000.", getitemname(.@items[.@i]));
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Erundek"
 msgid "You chose ^3131FF%s^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # case 2720: mes("This item is for Swordman and Taekwon Master Class only."); break;
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "This item is for Swordman and Taekwon Master Class only."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # case 2721: mes("This item is for Thief Class only."); break;
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "This item is for Thief Class only."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # case 2722: mes("This item is for Acolyte Class only."); break;
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "This item is for Acolyte Class only."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # case 2723: mes("This item is for Magician Class only."); break;
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "This item is for Magician Class only."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # case 2724: mes("This item is for Archer Class only."); break;
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "This item is for Archer Class only."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # case 2725: mes("This item is for Merchant Class only."); break;
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "This item is for Merchant Class only."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # case 2733: mes("This item is for Gunslinger only."); break;
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "This item is for Gunslinger only."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mesf("You can exchange for this item with ^FF0000%d %s or %d %s^000000.", .@items[.@i+1], getitemname(7828), .@items[.@i+1], getitemname(7829));
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Erundek"
 msgid "You can exchange for this item with ^FF0000%d %s or %d %s^000000."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("Which Badge do you want to exchange?");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Which Badge do you want to exchange?"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mesf("You need ^3131FF%d Badges^000000 to exchange.", .@items[.@i+1]);
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Erundek"
 msgid "You need ^3131FF%d Badges^000000 to exchange."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # .@j = select("Bravery Badge", "Valor Badge", "Cancel");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Bravery Badge"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # .@j = select("Bravery Badge", "Valor Badge", "Cancel");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Valor Badge"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # .@j = select("Bravery Badge", "Valor Badge", "Cancel");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "Cancel"
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # mes("You cancelled the exchange.");
+#: npc/battleground/bg_common.txt
 msgctxt "Erundek"
 msgid "You cancelled the exchange."
 msgstr ""
 
-#: npc/battleground/bg_common.txt
 # else mesf("You do not have enough %ss.", getitemname(.@cost));
+#: npc/battleground/bg_common.txt
 #, c-format
 msgctxt "Erundek"
 msgid "You do not have enough %ss."
